@@ -1,0 +1,2 @@
+# SmartSpend AI - Expense Tracker
+ 
